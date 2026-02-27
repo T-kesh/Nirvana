@@ -1,10 +1,10 @@
- import { FaXTwitter } from "react-icons/fa6";
- import { FaInstagram } from "react-icons/fa";
- import { FaTelegram } from "react-icons/fa";
- import { FaYoutube } from "react-icons/fa";
- import { FaDiscord } from "react-icons/fa";
- import { FaLinkedin } from "react-icons/fa";
- import { FaFacebook } from "react-icons/fa";
+//  import { FaXTwitter } from "react-icons/fa6";
+//  import { FaInstagram } from "react-icons/fa";
+//  import { FaTelegram } from "react-icons/fa";
+//  import { FaYoutube } from "react-icons/fa";
+//  import { FaDiscord } from "react-icons/fa";
+//  import { FaLinkedin } from "react-icons/fa";
+//  import { FaFacebook } from "react-icons/fa";
 const Ecosystem = () => {
     return (
         <>
@@ -13,7 +13,6 @@ const Ecosystem = () => {
                 <h1 className="Eco-h1">Our Ecosystem</h1>
                 <p className="Eco-p">A comprehensive platform designed to support</p>
                 <p className="Eco-p">your Web3 journey from learning to building.</p>
-                {/* <Image src={Image} alt="Ecosystem"></Image> */}
             </div>
 
             <div className="Eco-container-1">
